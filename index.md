@@ -1,4 +1,5 @@
-## Welcome to Limmyou blog Pages
+## This is Limmyou blog Page
+It's JAVA time~~~
 
 You can use the [editor on GitHub](https://github.com/limmyou/IamAblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
