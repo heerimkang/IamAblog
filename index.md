@@ -1,5 +1,7 @@
 ## This is Limmyou blog Page
-It's JAVA time~~~
+Hello? Thank you for coming! 
+Today is October,12 and This class is "의료정보학개론". 
+
 
 You can use the [editor on GitHub](https://github.com/limmyou/IamAblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
